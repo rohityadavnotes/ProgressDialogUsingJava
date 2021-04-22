@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/light_blue_500</color>
+    <color name="colorPrimaryDark">@color/light_blue_700</color>
+    <color name="colorAccent">@color/light_blue_A200</color>
+
+    <!-- EditText colors -->
+    <color name="colorBorder">@color/light_blue_500</color>
+    <color name="colorActiveHint">@color/light_blue_500</color>
+    <color name="colorInactiveHint">@color/light_blue_500</color>
+    <color name="colorError">@color/red_500</color>
+
+    <color name="colorCounter">@color/light_blue_500</color>
+    <color name="colorCounterOverflow">@color/red_500</color>
+
+    <!-- Button colors -->
+    <color name="colorButtonUnPressed">@color/light_blue_500</color>
+    <color name="colorButtonPressed">@color/light_blue_300</color>
+
+    <color name="colorDialogButtonPressed">@color/light_blue_500</color>
+    <color name="colorDialogButtonUnPressed">@color/light_blue_300</color>
+</resources>

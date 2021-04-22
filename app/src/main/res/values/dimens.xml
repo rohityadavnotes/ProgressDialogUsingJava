@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default screen margins, per the Android Design guidelines.-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Status Bar & Toolbar-->
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="tool_bar_height_phones">56dp</dimen>
+    <dimen name="tool_bar_height_tablets">64dp</dimen>
+
+    <!--Navigation Drawer-->
+    <dimen name="nav_drawer_width">260dp</dimen>
+
+    <!--Floating Action Button-->
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation_press">12dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+
+        <!--CardView-->
+    <dimen name="card_corner_radius">3dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+</resources>
